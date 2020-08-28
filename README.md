@@ -4,7 +4,8 @@ Note-taker is an application that allows users to access old notes, save new not
 
 ## Deployed on Heroku
 
-You can access the application at: 
+You can access the application at: https://glacial-thicket-96135.herokuapp.com/
+![Demo][/images/image1.PNG]
 
 ## Usage
 
